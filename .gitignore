@@ -8,6 +8,5 @@ npm-debug.log
 npm-debug.log.*
 thumbs.db
 !.gitkeep
-src/config/index.js
 misc/
 yarn-error.log

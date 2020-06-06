@@ -34,4 +34,4 @@ script:
 - yarn run build:win
 branches:
   only:
-  - master
+  - build-test
